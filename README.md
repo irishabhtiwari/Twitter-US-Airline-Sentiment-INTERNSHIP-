@@ -11,4 +11,18 @@
    </b> Perform sentiment analysis on Twitter data related to US airlines to classify tweets as positive, negative, or neutral. Utilize NLP and machine learning techniques to gain insights into public sentiment, aiding airlines in enhancing customer experience and decision-making processes. </b>
    
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ ## ⏳ Dataset
+   
+   <h4>  Dataset Download Link: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment </h4> 
+   
+   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+   ## :desktop_computer:	Installation
+      
+   ### :hammer_and_wrench: Requirement
+   
+   * Python Programming
+   * Jupyter Notebook
+
+   ## 📝 Description
