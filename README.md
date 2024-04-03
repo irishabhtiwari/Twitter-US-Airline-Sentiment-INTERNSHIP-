@@ -8,7 +8,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*3qCgcIMCjb19gFEO">
 
   <h2> ⚡️ Business Objectives</h2
-   </b> To develop a predictive model using the Titanic dataset from Kaggle in order to accurately forecast whether a passenger survived or not based on various attributes such as age, gender, ticket class, fare, and embarkation port. </b>
+   </b> : Perform sentiment analysis on Twitter data related to US airlines to classify tweets as positive, negative, or neutral. Utilize NLP and machine learning techniques to gain insights into public sentiment, aiding airlines in enhancing customer experience and decision-making processes. </b>
    
    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
