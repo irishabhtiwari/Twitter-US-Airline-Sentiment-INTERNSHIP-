@@ -26,3 +26,11 @@
    * Jupyter Notebook
 
    ## 📝 Description
+
+1. Data Collection: Gather Twitter data related to US airlines using APIs or web scraping methods, ensuring a diverse and representative dataset.
+
+2. Data Preprocessing: Clean the collected data by removing noise, such as special characters, URLs, and hashtags. Tokenize the text, remove stopwords, and perform stemming or lemmatization.
+
+3. Sentiment Analysis: Utilize NLP techniques to analyze the sentiment of each tweet, employing methods such as lexicon-based analysis, machine learning classifiers, or deep learning models.
+
+4. Sentiment Classification: Classify tweets into positive, negative, or neutral sentiment categories based on the sentiment analysis results, assigning sentiment scores to each tweet.
