@@ -6,3 +6,9 @@
 <h5 align="center">  <a href="https://technohacks.co.in"> TechnoHacks EduTech </h5>
 <p align="center"> 
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*3qCgcIMCjb19gFEO">
+
+  <h2> ⚡️ Business Objectives</h2
+   </b> To develop a predictive model using the Titanic dataset from Kaggle in order to accurately forecast whether a passenger survived or not based on various attributes such as age, gender, ticket class, fare, and embarkation port. </b>
+   
+   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
