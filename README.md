@@ -5,4 +5,4 @@
 <h3 align="center">  Python  </h3>
 <h5 align="center">  <a href="https://technohacks.co.in"> TechnoHacks EduTech </h5>
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Masterx-AI/Project_Titanic_Survival_Prediction_/main/titanic.jpg" alt="https://user-images.githubusercontent.com/101878130/227229559-b0338a12-585c-4d9d-8996-a8e5a22a8d88.png">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*3qCgcIMCjb19gFEO">
